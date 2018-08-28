@@ -2,7 +2,7 @@
 
 题一要求候选人独立阅读完成，候选人可以提问题，面试官回答。但面试官不讲解整个题目。
 
-# 1 Tournament
+# 1. Tournament
 
 Tally the results of a small football competition.
 
@@ -74,7 +74,7 @@ All other lines should be ignored:
 If an input contains both valid and invalid input lines,
 output a table that contains just the results from the valid lines.
 
-# 2 Create Tree from flat data
+# 2. Create Tree from flat data
 
 将输入的数组组装成一颗树状的数据结构，时间复杂度越小越好。要求程序具有侦测错误输入的能力。
 
